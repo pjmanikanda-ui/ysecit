@@ -1,0 +1,256 @@
+{
+  "categories": [
+    {
+      "category_name": "Burgers",
+      "category_image": "../assets/c1.png",
+      "items": [
+        {
+          "image": "../assets/1.jpg",
+          "food_name": "Delicious Burger",
+          "price": "$10.99",
+          "description": "Juicy beef patty with lettuce, tomato, and special sauce."
+        },
+        {
+          "image": "../assets/2.jpg",
+          "food_name": "Cheeseburger",
+          "price": "$9.99",
+          "description": "Classic cheeseburger with melted cheddar and fresh toppings."
+        }
+      ]
+    },
+    {
+      "category_name": "Pasta",
+      "category_image": "../assets/c2.png",
+      "items": [
+        {
+          "image": "../assets/3.jpg",
+          "food_name": "Pasta Carbonara",
+          "price": "$12.49",
+          "description": "Creamy pasta with pancetta, egg, cheese, and black pepper."
+        },
+        {
+          "image": "../assets/4.jpg",
+          "food_name": "Spaghetti Bolognese",
+          "price": "$11.99",
+          "description": "Hearty pasta with rich meat sauce and Parmesan cheese."
+        }
+      ]
+    },
+    {
+      "category_name": "Desserts",
+      "category_image": "../assets/c3.png",
+      "items": [
+        {
+          "image": "../assets/5.jpg",
+          "food_name": "Cheesecake",
+          "price": "$6.99",
+          "description": "Rich and creamy cheesecake topped with fresh berries."
+        },
+        {
+          "image": "../assets/6.jpg",
+          "food_name": "Chocolate Fondue",
+          "price": "$8.49",
+          "description": "Assorted fruits and marshmallows with warm chocolate dipping sauce."
+        }
+      ]
+    },
+    {
+      "category_name": "Pizza",
+      "category_image": "../assets/c4.png",
+      "items": [
+        {
+          "image": "../assets/7.jpg",
+          "food_name": "Margherita Pizza",
+          "price": "$14.99",
+          "description": "Classic pizza with tomato, mozzarella, and fresh basil."
+        },
+        {
+          "image": "../assets/8.jpg",
+          "food_name": "Pepperoni Pizza",
+          "price": "$16.49",
+          "description": "Pizza topped with zesty pepperoni slices and cheese."
+        }
+      ]
+    },
+    {
+      "category_name": "Salads",
+      "category_image": "../assets/c5.png",
+      "items": [
+        {
+          "image": "../assets/9.jpg",
+          "food_name": "Caesar Salad",
+          "price": "$8.99",
+          "description": "Crisp romaine lettuce, croutons, Parmesan cheese, and Caesar dressing."
+        },
+        {
+          "image": "../assets/10.jpg",
+          "food_name": "Greek Salad",
+          "price": "$9.49",
+          "description": "Fresh vegetables, feta cheese, olives, and Greek vinaigrette."
+        }
+      ]
+    },
+    {
+      "category_name": "Seafood",
+      "category_image": "../assets/c6.png",
+      "items": [
+        {
+          "image": "../assets/1.jpg",
+          "food_name": "Grilled Salmon",
+          "price": "$17.99",
+          "description": "Flaky salmon fillet with lemon dill sauce and steamed vegetables."
+        },
+        {
+          "image": "../assets/2.jpg",
+          "food_name": "Shrimp Scampi",
+          "price": "$15.99",
+          "description": "Succulent shrimp in a garlic butter sauce over linguine."
+        }
+      ]
+    },
+    {
+      "category_name": "Sushi",
+      "category_image": "../assets/c7.png",
+      "items": [
+        {
+          "image": "../assets/3.jpg",
+          "food_name": "California Roll",
+          "price": "$10.49",
+          "description": "Avocado, cucumber, and crab meat rolled in sushi rice and seaweed."
+        },
+        {
+          "image": "../assets/4.jpg",
+          "food_name": "Spicy Tuna Roll",
+          "price": "$11.99",
+          "description": "Tuna and spicy mayo rolled with sushi rice and nori."
+        }
+      ]
+    },
+    {
+      "category_name": "Sandwiches",
+      "category_image": "../assets/c1.png",
+      "items": [
+        {
+          "image": "../assets/5.jpg",
+          "food_name": "Turkey Club",
+          "price": "$9.99",
+          "description": "Triple-decker sandwich with roasted turkey, bacon, lettuce, and tomato."
+        },
+        {
+          "image": "../assets/6.jpg",
+          "food_name": "Caprese Panini",
+          "price": "$8.49",
+          "description": "Fresh mozzarella, tomato, and basil pesto grilled on ciabatta."
+        }
+      ]
+    },
+    {
+      "category_name": "Steaks",
+      "category_image": "../assets/c2.png",
+      "items": [
+        {
+          "image": "../assets/7.jpg",
+          "food_name": "Ribeye Steak",
+          "price": "$22.99",
+          "description": "Juicy ribeye steak cooked to perfection with choice of sides."
+        },
+        {
+          "image": "../assets/8.jpg",
+          "food_name": "Filet Mignon",
+          "price": "$27.99",
+          "description": "Tender filet mignon served with a red wine reduction sauce."
+        }
+      ]
+    },
+    {
+      "category_name": "Breakfast",
+      "category_image": "../assets/c3.png",
+      "items": [
+        {
+          "image": "../assets/9.jpg",
+          "food_name": "Classic Pancakes",
+          "price": "$7.49",
+          "description": "Fluffy pancakes served with butter and maple syrup."
+        },
+        {
+          "image": "../assets/10.jpg",
+          "food_name": "Vegetable Omelette",
+          "price": "$9.99",
+          "description": "Three-egg omelette with sautéed vegetables and cheese."
+        }
+      ]
+    },
+    {
+      "category_name": "Italian",
+      "category_image": "../assets/c4.png",
+      "items": [
+        {
+          "image": "../assets/1.jpg",
+          "food_name": "Ravioli",
+          "price": "$13.99",
+          "description": "Handmade pasta pockets filled with ricotta and spinach, served with marinara sauce."
+        },
+        {
+          "image": "../assets/2.jpg",
+          "food_name": "Tiramisu",
+          "price": "$7.99",
+          "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese."
+        }
+      ]
+    },
+    {
+      "category_name": "Indian",
+      "category_image": "../assets/c5.png",
+      "items": [
+        {
+          "image": "../assets/3.jpg",
+          "food_name": "Chicken Tikka Masala",
+          "price": "$14.99",
+          "description": "Tender pieces of chicken in a creamy tomato sauce, served with naan bread."
+        },
+        {
+          "image": "../assets/4.jpg",
+          "food_name": "Vegetable Biryani",
+          "price": "$12.49",
+          "description": "Fragrant rice dish cooked with mixed vegetables and aromatic spices."
+        }
+      ]
+    },
+    {
+      "category_name": "Chinese",
+      "category_image": "../assets/c6.png",
+      "items": [
+        {
+          "image": "../assets/5.jpg",
+          "food_name": "Orange Chicken",
+          "price": "$11.99",
+          "description": "Crispy chicken pieces tossed in a tangy orange glaze, served with steamed rice."
+        },
+        {
+          "image": "../assets/6.jpg",
+          "food_name": "Beef with Broccoli",
+          "price": "$13.49",
+          "description": "Tender beef slices and fresh broccoli florets stir-fried in a savory sauce."
+        }
+      ]
+    },
+    {
+      "category_name": "Thai",
+      "category_image": "../assets/c7.png",
+      "items": [
+        {
+          "image": "../assets/7.jpg",
+          "food_name": "Pad Thai",
+          "price": "$10.99",
+          "description": "Stir-fried rice noodles with shrimp, tofu, peanuts, and tamarind sauce."
+        },
+        {
+          "image": "../assets/8.jpg",
+          "food_name": "Green Curry",
+          "price": "$12.99",
+          "description": "Spicy coconut milk-based curry with chicken, eggplant, and Thai basil."
+        }
+      ]
+    }
+  ]
+}
